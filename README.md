@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# Diseño de Patrones UAM Azcapotzalco
+## Trimestre 19I
+### Profesor Oscar Herrera
 
 You can use the [editor on GitHub](https://github.com/JRaiden16/Disenio_Patrones_UAM_19I/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
