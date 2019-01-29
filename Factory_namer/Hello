@@ -1,0 +1,45 @@
+
+
+/**
+ * Class Hello
+ * Documentation of the Hello class
+ */
+public class Hello {
+
+  //
+  // Fields
+  //
+
+  
+  //
+  // Constructors
+  //
+  //Herrera improvement public Hello () { };
+  
+  //
+  // Methods
+  //
+
+
+  //
+  // Accessor methods
+  //
+
+  //
+  // Other methods
+  //
+
+  /**
+   * A comment about the Hello constructor
+   * @param        args Parameter documentation
+   */
+  public static void main( String[] args )
+  {
+    String str = "Oscar-Herrera";
+    NameFactory nf = new NameFactory();
+    Namer namer = nf.getNamer(str);
+    namer.print();
+  }
+
+
+}
